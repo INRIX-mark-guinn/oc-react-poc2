@@ -1,0 +1,9 @@
+{
+    "id"          : "sdk.poc.preact",
+    "name"        : "Preact POC",
+    "view"        : "appView.js",
+    "permissions" : [  ],
+    "categoryId"  : "WORKSPACE",
+    "date"        : "2016-08-05",
+    "version"     : "1.0.0"
+}
